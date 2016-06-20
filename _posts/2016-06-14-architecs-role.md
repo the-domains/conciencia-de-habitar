@@ -4,8 +4,8 @@ description: >-
   in Denver. And in a millisecond I saw a time-lapse of what I’ve been feeling
   about the architectural profession since the last years of the career at
   college, even though I already was a builder since 1991.
-dateModified: '2016-06-14T15:24:34.716Z'
-datePublished: '2016-06-14T15:24:35.392Z'
+dateModified: '2016-06-20T16:39:22.970Z'
+datePublished: '2016-06-20T17:20:38.950Z'
 title: she believes I’m playing piano in a whore house...
 author: []
 sourcePath: _posts/2016-06-14-architecs-role.md
@@ -16,7 +16,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e896ec9-1667-46a9-aa84-771caac37b64.png)
+![About been an Architect :)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e896ec9-1667-46a9-aa84-771caac37b64.png)
 
 ## she believes I'm playing piano in a whore house...
 
