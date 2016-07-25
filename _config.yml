@@ -1,14 +1,14 @@
-layout_spectrum: 0.976037313695997
-typography_spectrum: 0.9724095440469682
+layout_spectrum: 0.648436656454578
+typography_spectrum: 0.6083881841041148
 color:
-  brandStrength: 0.5837257418315858
-  lightness: 0.8288410876411945
-  saturation: 0.9096746884752065
-  rhythmicContrast: 0.5414898246526718
+  brandStrength: 0.3130664217751473
+  lightness: 0.7216656398959458
+  saturation: 0.6957783168181777
+  rhythmicContrast: 0.9363893237896264
   brandColors:
-    - '#334D5C'
-    - '#45B29D'
-    - '#EFC94C'
-    - '#E27A3F'
-    - '#DF5A49'
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
 name: Conciencia de Habitar
