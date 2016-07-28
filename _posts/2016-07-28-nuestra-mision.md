@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-07-28T23:50:25.462Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8153779-5b47-4574-a353-7e0d17883f96.jpg
+datePublished: '2016-07-28T23:51:02.080Z'
 author: []
 via: {}
-dateModified: '2016-07-28T23:50:12.346Z'
+dateModified: '2016-07-28T23:51:01.311Z'
 title: Nuestra mision
 publisher: {}
 description: Crear espacios
-starred: false
 sourcePath: _posts/2016-07-28-nuestra-mision.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: nuestra-mision/index.html
 _type: MediaObject
 
 ---
