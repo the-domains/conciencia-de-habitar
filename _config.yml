@@ -12,3 +12,7 @@ color:
     - '#A7C520'
     - '#493F0B'
 name: Conciencia de Habitar
+navigation:
+  - name: ADN
+    id: 2c3574b6-b469-4ea8-9a17-7dc0ffe0f6fe
+    type: content
