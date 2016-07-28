@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-07-28T23:47:16.758Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7c0f9fc-8b98-4a6b-892f-d498e24a6487.png
+datePublished: '2016-07-28T23:50:53.456Z'
 author: []
 via: {}
-dateModified: '2016-07-28T23:47:04.031Z'
+dateModified: '2016-07-28T23:50:52.776Z'
 title: Servicios
 publisher: {}
 description: >-
@@ -14,11 +12,10 @@ description: >-
   sostenibles. - Nuestros servicios pueden aplicarse por separado a proyectos ya
   construidos, o de manera integrada a nuevos proyectos, no importa la escala
   del mismo.
-starred: false
 sourcePath: _posts/2016-07-28-servicios.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: servicios/index.html
 _type: MediaObject
 
 ---
