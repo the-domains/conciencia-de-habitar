@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-25T02:16:35.430Z'
+datePublished: '2016-07-29T00:38:53.013Z'
 sourcePath: _posts/2016-06-14-architecs-role.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d54abf80-ec47-467c-837e-28c09d9d617a.png
 author: []
 via: {}
-dateModified: '2016-07-25T02:16:35.283Z'
+dateModified: '2016-07-29T00:38:52.251Z'
 title: she believes I’m playing piano in a whore house...
 publisher: {}
 description: >-
@@ -37,4 +37,3 @@ There is actually a big Lack of services in people needs and a big communication
 We Aim to become the biggest solutions providers of small needs to make life better, healthier, happier, greener and cheaper... Oops I shouldn't say the last one It's again our profits.
 
 We believe in real solutions at the right price for anyone budget.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aef3de147790ac671a27136c84e91c35/croprotate.png?cropheight=319&cropwidth=273&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd54abf80-ec47-467c-837e-28c09d9d617a.png&x=14&y=0)
