@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-25T02:39:42.634Z'
+datePublished: '2016-07-29T02:24:34.585Z'
 sourcePath: _posts/2016-04-15-21-amazing-treehouse-accommodations-or-travel-away.md
 inFeed: true
 isBasedOnUrl: 'http://travelaway.me/treehouse-accommodation/'
@@ -34,8 +34,8 @@ related:
     thumbnail_width: 439
 author: []
 via: {}
-dateModified: '2016-07-25T02:39:22.678Z'
-title: 'How many years of your life, your house worth?'
+dateModified: '2016-07-29T02:24:33.845Z'
+title: how many years of your life are worth your home?
 app_links: []
 publisher: {}
 description: >-
@@ -50,7 +50,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Take a break and think twice. Are you living happy?, do you have happy filings when coming back home, ... be honest to yourself. that dreamed house didn't bring the suppoused espontaneous happiness?](https://the-grid-user-content.s3-us-west-2.amazonaws.com/080fcdb9-e638-472c-8c6d-f195aebc0118.bmp)
+![Take a break and think twice. Are you living happy?, do you have happy filings when coming back home, ... be honest to yourself. that dreamed house didn't bring the suppoused espontaneous happiness?](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeca5542-9dbd-4c4e-a50f-dbe02cc67494.bmp)
 
 This House combine Needs, wit & economy. Incredible comfort in barely 90 sq. ft, with the option to set it up on your land, on a rented space, on a flatbed to relocate it later on.  
 A cozy space to live, work, rest or to build an equity by renting it on places like ARBNB.
