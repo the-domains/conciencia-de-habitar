@@ -1,4 +1,3 @@
-layout_spectrum: 0.648436656454578
 typography_spectrum: 0.6083881841041148
 color:
   brandStrength: 0.3130664217751473
@@ -11,6 +10,7 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
+layout_spectrum: 0.648436656454578
 name: Conciencia de Habitar
 navigation:
   - name: ADN
@@ -22,3 +22,4 @@ navigation:
   - name: Nuestra mision
     id: 15dbb5bd-4202-4edd-98d8-84aab8a2c5a1
     type: content
+title: vivir mejor
