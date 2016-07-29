@@ -1,16 +1,16 @@
-typography_spectrum: 0.6124238804914057
+typography_spectrum: 0.6083881841041148
 color:
-  brandStrength: 0.8807113617658615
-  lightness: 0.311858172994107
-  saturation: 0.7873146480415016
-  rhythmicContrast: 0.24432575167156756
+  brandStrength: 0.3130664217751473
+  lightness: 0.7216656398959458
+  saturation: 0.6957783168181777
+  rhythmicContrast: 0.9363893237896264
   brandColors:
     - '#85DB18'
     - '#CDE855'
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
-layout_spectrum: 0.3685431075282395
+layout_spectrum: 0.648436656454578
 name: Conciencia de Habitar
 navigation:
   - name: ADN
@@ -23,3 +23,4 @@ navigation:
     id: dd17a61d-2b86-4d27-9204-9c50c6061eb6
     type: content
 title: vivir mejor
+description: arquitectura para llevar...
