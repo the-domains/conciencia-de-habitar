@@ -1,16 +1,16 @@
-typography_spectrum: 0.6083881841041148
+typography_spectrum: 0.3797513279132545
 color:
-  brandStrength: 0.3130664217751473
-  lightness: 0.7216656398959458
-  saturation: 0.6957783168181777
-  rhythmicContrast: 0.9363893237896264
+  brandStrength: 0.9289276483468711
+  lightness: 0.6142935040406883
+  saturation: 0.8741545507218689
+  rhythmicContrast: 0.012502373661845922
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
-layout_spectrum: 0.648436656454578
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.42840872681699693
 name: Conciencia de Habitar
 navigation:
   - name: ADN
